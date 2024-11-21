@@ -1,0 +1,1 @@
+import{_ as s,o as t,c as o,g as a}from"./app-Ca89HDD3.js";const r={props:{id:{default:"tab"}}},c={class:"tab-container"};function n(e,_,d,l,p,f){return t(),o("div",c,[a(e.$slots,"default")])}const u=s(r,[["render",n],["__file","Tabs.vue"]]);export{u as default};
